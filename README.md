@@ -12,8 +12,7 @@
 <div>  
 <a href= "https://www.linkedin.com/in/danielle-pelayo-971970205">
 <img height= "180em" src= "https://github-readme-stats.vercel.app/api?username=daniellepelayo&show_icons=true&theme=dracula"/>
-<img height="150em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=daniellepelayo&layout=compact)](https://github.com/DaniellePelayo-readme-stats&theme=dracula"/>
-</div><br/>
+
  Apaixonada por tecnologia, dedicado à programação e sempre em busca de desafios para expandir meu conhecimento 👩‍💻<br/>
 
 
